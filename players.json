@@ -1,0 +1,10166 @@
+[
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 663,
+    "share": {
+      "player": 16
+    },
+    "best_ask": 3,
+    "home_colour": "000000",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 332,
+    "share": {
+      "player": 19
+    },
+    "best_ask": 3,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 27,
+    "share": {
+      "player": 36
+    },
+    "best_ask": 3,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 429,
+    "share": {
+      "player": 50
+    },
+    "best_ask": 3,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 61,
+    "share": {
+      "player": 124
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 38,
+    "share": {
+      "player": 289
+    },
+    "best_ask": 2,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 61,
+    "share": {
+      "player": 321
+    },
+    "best_ask": 3,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 65,
+    "share": {
+      "player": 381
+    },
+    "best_ask": 2,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 371,
+    "share": {
+      "player": 423
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 187,
+    "share": {
+      "player": 471
+    },
+    "best_ask": 3,
+    "home_colour": "1bac03",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 67,
+    "share": {
+      "player": 564
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 20,
+    "share": {
+      "player": 600
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 49,
+    "share": {
+      "player": 632
+    },
+    "best_ask": 2,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 88,
+    "share": {
+      "player": 680
+    },
+    "best_ask": 3,
+    "home_colour": "cba810",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 20,
+    "share": {
+      "player": 720
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 12,
+    "share": {
+      "player": 746
+    },
+    "best_ask": 1,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 67,
+    "share": {
+      "player": 851
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 36,
+    "share": {
+      "player": 923
+    },
+    "best_ask": 2,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 111,
+    "share": {
+      "player": 983
+    },
+    "best_ask": 3,
+    "home_colour": "63D0FD",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 29,
+    "share": {
+      "player": 985
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 29,
+    "share": {
+      "player": 1024
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 465,
+    "share": {
+      "player": 1065
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 4260,
+    "share": {
+      "player": 1081
+    },
+    "best_ask": 2,
+    "home_colour": "000000",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": 5,
+    "club_id": 140,
+    "share": {
+      "player": 1110
+    },
+    "best_ask": 10,
+    "home_colour": "652339",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 15,
+    "share": {
+      "player": 1117
+    },
+    "best_ask": 2,
+    "home_colour": "652339",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 465,
+    "share": {
+      "player": 1129
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": 24,
+    "club_id": 110,
+    "share": {
+      "player": 1131
+    },
+    "best_ask": 24,
+    "home_colour": "000000",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": 6,
+    "club_id": 29,
+    "share": {
+      "player": 1139
+    },
+    "best_ask": 6,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 76,
+    "share": {
+      "player": 1165
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 54,
+    "share": {
+      "player": 1195
+    },
+    "best_ask": 3,
+    "home_colour": "FEEC25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": 5,
+    "club_id": 172,
+    "share": {
+      "player": 1214
+    },
+    "best_ask": 5,
+    "home_colour": "ffffff",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 38,
+    "share": {
+      "player": 1220
+    },
+    "best_ask": 2,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 41,
+    "share": {
+      "player": 1266
+    },
+    "best_ask": 3,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 61,
+    "share": {
+      "player": 1433
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 70,
+    "share": {
+      "player": 1610
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 70,
+    "share": {
+      "player": 1632
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 67,
+    "share": {
+      "player": 1640
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 13,
+    "share": {
+      "player": 1646
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 45,
+    "share": {
+      "player": 1662
+    },
+    "best_ask": 2,
+    "home_colour": "F08608",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 70,
+    "share": {
+      "player": 1677
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 13,
+    "share": {
+      "player": 1714
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 76,
+    "share": {
+      "player": 1760
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 55,
+    "share": {
+      "player": 1847
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 459,
+    "share": {
+      "player": 1854
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 77,
+    "share": {
+      "player": 1862
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 429,
+    "share": {
+      "player": 1868
+    },
+    "best_ask": 3,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 109,
+    "share": {
+      "player": 1933
+    },
+    "best_ask": 3,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 85,
+    "share": {
+      "player": 1983
+    },
+    "best_ask": 3,
+    "home_colour": "652339",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 85,
+    "share": {
+      "player": 2017
+    },
+    "best_ask": 2,
+    "home_colour": "652339",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1465,
+    "share": {
+      "player": 2290
+    },
+    "best_ask": 3,
+    "home_colour": "feec25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 110,
+    "share": {
+      "player": 2363
+    },
+    "best_ask": 3,
+    "home_colour": "000000",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": 5,
+    "club_id": 110,
+    "share": {
+      "player": 2370
+    },
+    "best_ask": 5,
+    "home_colour": "000000",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": 2,
+    "last_price": 5,
+    "club_id": 115,
+    "share": {
+      "player": 2386
+    },
+    "best_ask": 5,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 108,
+    "share": {
+      "player": 2407
+    },
+    "best_ask": 3,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 108,
+    "share": {
+      "player": 2409
+    },
+    "best_ask": 3,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 109,
+    "share": {
+      "player": 2586
+    },
+    "best_ask": 3,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": 5,
+    "club_id": 109,
+    "share": {
+      "player": 2645
+    },
+    "best_ask": 5,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1467,
+    "share": {
+      "player": 2651
+    },
+    "best_ask": 2,
+    "home_colour": "63d0fd",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 663,
+    "share": {
+      "player": 2667
+    },
+    "best_ask": 2,
+    "home_colour": "000000",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 295,
+    "share": {
+      "player": 2704
+    },
+    "best_ask": 2,
+    "home_colour": "1BAC03",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 110,
+    "share": {
+      "player": 2727
+    },
+    "best_ask": 3,
+    "home_colour": "000000",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 169,
+    "share": {
+      "player": 2735
+    },
+    "best_ask": 2,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 278,
+    "share": {
+      "player": 2739
+    },
+    "best_ask": 2,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 157,
+    "share": {
+      "player": 2755
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": 3,
+    "club_id": 1079,
+    "share": {
+      "player": 2767
+    },
+    "best_ask": 3,
+    "home_colour": "652339",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": 6,
+    "last_price": 90,
+    "club_id": 140,
+    "share": {
+      "player": 2772
+    },
+    "best_ask": 90,
+    "home_colour": "652339",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 284,
+    "share": {
+      "player": 2806
+    },
+    "best_ask": 2,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": 3,
+    "club_id": 165,
+    "share": {
+      "player": 2851
+    },
+    "best_ask": 3,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 429,
+    "share": {
+      "player": 2892
+    },
+    "best_ask": 3,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 306,
+    "share": {
+      "player": 2915
+    },
+    "best_ask": 3,
+    "home_colour": "ffffff",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 2085,
+    "share": {
+      "player": 2923
+    },
+    "best_ask": 2,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": 18,
+    "club_id": 163,
+    "share": {
+      "player": 2950
+    },
+    "best_ask": 18,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 306,
+    "share": {
+      "player": 2952
+    },
+    "best_ask": 5,
+    "home_colour": "ffffff",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 168,
+    "share": {
+      "player": 2958
+    },
+    "best_ask": 5,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 310,
+    "share": {
+      "player": 2974
+    },
+    "best_ask": 3,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": 5,
+    "club_id": 165,
+    "share": {
+      "player": 2985
+    },
+    "best_ask": 5,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 174,
+    "share": {
+      "player": 2989
+    },
+    "best_ask": 3,
+    "home_colour": "FEEC25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 176,
+    "share": {
+      "player": 3035
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 282,
+    "share": {
+      "player": 3036
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 179,
+    "share": {
+      "player": 3053
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 180,
+    "share": {
+      "player": 3071
+    },
+    "best_ask": 2,
+    "home_colour": "ffffff",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1079,
+    "share": {
+      "player": 3075
+    },
+    "best_ask": 3,
+    "home_colour": "652339",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 294,
+    "share": {
+      "player": 3086
+    },
+    "best_ask": 5,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 351,
+    "share": {
+      "player": 3096
+    },
+    "best_ask": 3,
+    "home_colour": "feec25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 209,
+    "share": {
+      "player": 3102
+    },
+    "best_ask": 2,
+    "home_colour": "FEEC25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 491,
+    "share": {
+      "player": 3162
+    },
+    "best_ask": 3,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 288,
+    "share": {
+      "player": 3166
+    },
+    "best_ask": 3,
+    "home_colour": "000000",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 803,
+    "share": {
+      "player": 3221
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 180,
+    "share": {
+      "player": 3242
+    },
+    "best_ask": 3,
+    "home_colour": "ffffff",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 602,
+    "share": {
+      "player": 3290
+    },
+    "best_ask": 3,
+    "home_colour": "63d0fd",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 352,
+    "share": {
+      "player": 3293
+    },
+    "best_ask": 3,
+    "home_colour": "63d0fd",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 224,
+    "share": {
+      "player": 3302
+    },
+    "best_ask": 5,
+    "home_colour": "ffffff",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 118,
+    "share": {
+      "player": 3306
+    },
+    "best_ask": 3,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 287,
+    "share": {
+      "player": 3314
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 172,
+    "share": {
+      "player": 3317
+    },
+    "best_ask": 3,
+    "home_colour": "ffffff",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": 3,
+    "club_id": 250,
+    "share": {
+      "player": 3320
+    },
+    "best_ask": 3,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 281,
+    "share": {
+      "player": 3331
+    },
+    "best_ask": 3,
+    "home_colour": "63D0FD",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 88,
+    "share": {
+      "player": 3342
+    },
+    "best_ask": 5,
+    "home_colour": "cba810",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 254,
+    "share": {
+      "player": 3355
+    },
+    "best_ask": 3,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 265,
+    "share": {
+      "player": 3367
+    },
+    "best_ask": 3,
+    "home_colour": "63D0FD",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1226,
+    "share": {
+      "player": 3439
+    },
+    "best_ask": 3,
+    "home_colour": "F08608",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 285,
+    "share": {
+      "player": 3467
+    },
+    "best_ask": 3,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 98,
+    "share": {
+      "player": 3472
+    },
+    "best_ask": 3,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 267,
+    "share": {
+      "player": 3480
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 350,
+    "share": {
+      "player": 3486
+    },
+    "best_ask": 3,
+    "home_colour": "19244f",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": 18,
+    "club_id": 47,
+    "share": {
+      "player": 3513
+    },
+    "best_ask": 18,
+    "home_colour": "63D0FD",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 277,
+    "share": {
+      "player": 3523
+    },
+    "best_ask": 2,
+    "home_colour": "652339",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 278,
+    "share": {
+      "player": 3534
+    },
+    "best_ask": 3,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 447,
+    "share": {
+      "player": 3538
+    },
+    "best_ask": 3,
+    "home_colour": "19244f",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 282,
+    "share": {
+      "player": 3557
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 451,
+    "share": {
+      "player": 3575
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 351,
+    "share": {
+      "player": 3580
+    },
+    "best_ask": 5,
+    "home_colour": "feec25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 283,
+    "share": {
+      "player": 3584
+    },
+    "best_ask": 2,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 364,
+    "share": {
+      "player": 3596
+    },
+    "best_ask": 2,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 447,
+    "share": {
+      "player": 3625
+    },
+    "best_ask": 3,
+    "home_colour": "19244f",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 98,
+    "share": {
+      "player": 3650
+    },
+    "best_ask": 3,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 602,
+    "share": {
+      "player": 3662
+    },
+    "best_ask": 3,
+    "home_colour": "63d0fd",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 272,
+    "share": {
+      "player": 3679
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": 6,
+    "club_id": 270,
+    "share": {
+      "player": 3684
+    },
+    "best_ask": 6,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 290,
+    "share": {
+      "player": 3688
+    },
+    "best_ask": 3,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 292,
+    "share": {
+      "player": 3690
+    },
+    "best_ask": 3,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 295,
+    "share": {
+      "player": 3707
+    },
+    "best_ask": 3,
+    "home_colour": "1BAC03",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 288,
+    "share": {
+      "player": 3727
+    },
+    "best_ask": 2,
+    "home_colour": "000000",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 296,
+    "share": {
+      "player": 3751
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1572,
+    "share": {
+      "player": 3776
+    },
+    "best_ask": 2,
+    "home_colour": "19244F",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 286,
+    "share": {
+      "player": 3787
+    },
+    "best_ask": 3,
+    "home_colour": "ffffff",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 313,
+    "share": {
+      "player": 3883
+    },
+    "best_ask": 3,
+    "home_colour": "19244F",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": 19,
+    "club_id": 163,
+    "share": {
+      "player": 3884
+    },
+    "best_ask": 19,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 107,
+    "share": {
+      "player": 3898
+    },
+    "best_ask": 3,
+    "home_colour": "9505F0",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1763,
+    "share": {
+      "player": 3991
+    },
+    "best_ask": 3,
+    "home_colour": "1BAC03",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1790,
+    "share": {
+      "player": 3999
+    },
+    "best_ask": 2,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 313,
+    "share": {
+      "player": 4055
+    },
+    "best_ask": 3,
+    "home_colour": "19244F",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1519,
+    "share": {
+      "player": 4060
+    },
+    "best_ask": 3,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 333,
+    "share": {
+      "player": 4093
+    },
+    "best_ask": 3,
+    "home_colour": "19244f",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 5228,
+    "share": {
+      "player": 4130
+    },
+    "best_ask": 5,
+    "home_colour": "ffffff",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 47,
+    "share": {
+      "player": 4165
+    },
+    "best_ask": 5,
+    "home_colour": "63D0FD",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 111,
+    "share": {
+      "player": 4220
+    },
+    "best_ask": 3,
+    "home_colour": "63D0FD",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 353,
+    "share": {
+      "player": 4225
+    },
+    "best_ask": 2,
+    "home_colour": "9505f0",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1560,
+    "share": {
+      "player": 4280
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 258,
+    "share": {
+      "player": 4331
+    },
+    "best_ask": 3,
+    "home_colour": "0a4201",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": 15,
+    "club_id": 163,
+    "share": {
+      "player": 4336
+    },
+    "best_ask": 14,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 282,
+    "share": {
+      "player": 4494
+    },
+    "best_ask": 3,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 298,
+    "share": {
+      "player": 4572
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 298,
+    "share": {
+      "player": 4831
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 29,
+    "share": {
+      "player": 4858
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 76,
+    "share": {
+      "player": 4872
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 421,
+    "share": {
+      "player": 4953
+    },
+    "best_ask": 3,
+    "home_colour": "1BAC03",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 75,
+    "share": {
+      "player": 4957
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 189,
+    "share": {
+      "player": 5116
+    },
+    "best_ask": 3,
+    "home_colour": "ffffff",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 100,
+    "share": {
+      "player": 5141
+    },
+    "best_ask": 3,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1079,
+    "share": {
+      "player": 5298
+    },
+    "best_ask": 3,
+    "home_colour": "652339",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 446,
+    "share": {
+      "player": 5314
+    },
+    "best_ask": 3,
+    "home_colour": "9505f0",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 362,
+    "share": {
+      "player": 5315
+    },
+    "best_ask": 3,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 363,
+    "share": {
+      "player": 5331
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 362,
+    "share": {
+      "player": 5335
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1763,
+    "share": {
+      "player": 5381
+    },
+    "best_ask": 2,
+    "home_colour": "1BAC03",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 111,
+    "share": {
+      "player": 5382
+    },
+    "best_ask": 3,
+    "home_colour": "63D0FD",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 31,
+    "share": {
+      "player": 5430
+    },
+    "best_ask": 3,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 336,
+    "share": {
+      "player": 5570
+    },
+    "best_ask": 3,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 341,
+    "share": {
+      "player": 5575
+    },
+    "best_ask": 3,
+    "home_colour": "1bac03",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 330,
+    "share": {
+      "player": 5604
+    },
+    "best_ask": 3,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 381,
+    "share": {
+      "player": 5627
+    },
+    "best_ask": 2,
+    "home_colour": "ffffff",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 381,
+    "share": {
+      "player": 5658
+    },
+    "best_ask": 2,
+    "home_colour": "ffffff",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 189,
+    "share": {
+      "player": 5983
+    },
+    "best_ask": 3,
+    "home_colour": "ffffff",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 376,
+    "share": {
+      "player": 6053
+    },
+    "best_ask": 2,
+    "home_colour": "feec25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 138,
+    "share": {
+      "player": 6135
+    },
+    "best_ask": 5,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 300,
+    "share": {
+      "player": 6162
+    },
+    "best_ask": 3,
+    "home_colour": "0a4201",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1467,
+    "share": {
+      "player": 6205
+    },
+    "best_ask": 3,
+    "home_colour": "63d0fd",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1226,
+    "share": {
+      "player": 6271
+    },
+    "best_ask": 2,
+    "home_colour": "F08608",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 351,
+    "share": {
+      "player": 6279
+    },
+    "best_ask": 2,
+    "home_colour": "feec25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 271,
+    "share": {
+      "player": 6358
+    },
+    "best_ask": 2,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 375,
+    "share": {
+      "player": 6373
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": 5,
+    "club_id": 139,
+    "share": {
+      "player": 6378
+    },
+    "best_ask": 10,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 346,
+    "share": {
+      "player": 6494
+    },
+    "best_ask": 2,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 327,
+    "share": {
+      "player": 6495
+    },
+    "best_ask": 2,
+    "home_colour": "feec25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 588,
+    "share": {
+      "player": 6511
+    },
+    "best_ask": 2,
+    "home_colour": "000000",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": 3,
+    "club_id": 450,
+    "share": {
+      "player": 6519
+    },
+    "best_ask": 6,
+    "home_colour": "FEEC25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 328,
+    "share": {
+      "player": 6524
+    },
+    "best_ask": 3,
+    "home_colour": "F08608",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 340,
+    "share": {
+      "player": 6530
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1673,
+    "share": {
+      "player": 6585
+    },
+    "best_ask": 2,
+    "home_colour": "0a4201",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 254,
+    "share": {
+      "player": 6594
+    },
+    "best_ask": 2,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 330,
+    "share": {
+      "player": 6752
+    },
+    "best_ask": 3,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 259,
+    "share": {
+      "player": 6835
+    },
+    "best_ask": 3,
+    "home_colour": "feec25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 313,
+    "share": {
+      "player": 6871
+    },
+    "best_ask": 3,
+    "home_colour": "19244F",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 169,
+    "share": {
+      "player": 6874
+    },
+    "best_ask": 2,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 327,
+    "share": {
+      "player": 6881
+    },
+    "best_ask": 2,
+    "home_colour": "feec25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 274,
+    "share": {
+      "player": 6954
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 322,
+    "share": {
+      "player": 6961
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 281,
+    "share": {
+      "player": 6998
+    },
+    "best_ask": 2,
+    "home_colour": "63D0FD",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 277,
+    "share": {
+      "player": 7008
+    },
+    "best_ask": 2,
+    "home_colour": "652339",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 362,
+    "share": {
+      "player": 7012
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 313,
+    "share": {
+      "player": 7218
+    },
+    "best_ask": 3,
+    "home_colour": "19244F",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 447,
+    "share": {
+      "player": 7232
+    },
+    "best_ask": 2,
+    "home_colour": "19244f",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 75,
+    "share": {
+      "player": 7242
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 862,
+    "share": {
+      "player": 7346
+    },
+    "best_ask": 2,
+    "home_colour": "1BAC03",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 375,
+    "share": {
+      "player": 7403
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1654,
+    "share": {
+      "player": 7423
+    },
+    "best_ask": 3,
+    "home_colour": "0A4201",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1467,
+    "share": {
+      "player": 7478
+    },
+    "best_ask": 2,
+    "home_colour": "63d0fd",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 356,
+    "share": {
+      "player": 7524
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 125,
+    "share": {
+      "player": 7562
+    },
+    "best_ask": 3,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 862,
+    "share": {
+      "player": 7578
+    },
+    "best_ask": 3,
+    "home_colour": "1BAC03",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 108,
+    "share": {
+      "player": 7621
+    },
+    "best_ask": 3,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 439,
+    "share": {
+      "player": 7653
+    },
+    "best_ask": 3,
+    "home_colour": "FEEC25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 359,
+    "share": {
+      "player": 7787
+    },
+    "best_ask": 2,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 3210,
+    "share": {
+      "player": 7893
+    },
+    "best_ask": 3,
+    "home_colour": "63d0fd",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 148,
+    "share": {
+      "player": 8044
+    },
+    "best_ask": 3,
+    "home_colour": "ffffff",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": 3,
+    "club_id": 80,
+    "share": {
+      "player": 8047
+    },
+    "best_ask": 3,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 55,
+    "share": {
+      "player": 8070
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 3910,
+    "share": {
+      "player": 8155
+    },
+    "best_ask": 2,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 465,
+    "share": {
+      "player": 8190
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 457,
+    "share": {
+      "player": 8238
+    },
+    "best_ask": 2,
+    "home_colour": "652339",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 333,
+    "share": {
+      "player": 8258
+    },
+    "best_ask": 3,
+    "home_colour": "19244f",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 5058,
+    "share": {
+      "player": 8296
+    },
+    "best_ask": 2,
+    "home_colour": "feec25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1334,
+    "share": {
+      "player": 8363
+    },
+    "best_ask": 2,
+    "home_colour": "19244f",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 758,
+    "share": {
+      "player": 8428
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1068,
+    "share": {
+      "player": 8530
+    },
+    "best_ask": 3,
+    "home_colour": "F08608",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 146,
+    "share": {
+      "player": 8584
+    },
+    "best_ask": 3,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1560,
+    "share": {
+      "player": 8620
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 429,
+    "share": {
+      "player": 8667
+    },
+    "best_ask": 2,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 439,
+    "share": {
+      "player": 8733
+    },
+    "best_ask": 3,
+    "home_colour": "FEEC25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1563,
+    "share": {
+      "player": 8755
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 444,
+    "share": {
+      "player": 8775
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1458,
+    "share": {
+      "player": 8910
+    },
+    "best_ask": 2,
+    "home_colour": "000000",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 491,
+    "share": {
+      "player": 8947
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": 5,
+    "club_id": 41,
+    "share": {
+      "player": 8960
+    },
+    "best_ask": 10,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 142,
+    "share": {
+      "player": 8963
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 143,
+    "share": {
+      "player": 8964
+    },
+    "best_ask": 2,
+    "home_colour": "FEEC25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 373,
+    "share": {
+      "player": 8994
+    },
+    "best_ask": 2,
+    "home_colour": "ffffff",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 443,
+    "share": {
+      "player": 9044
+    },
+    "best_ask": 3,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 373,
+    "share": {
+      "player": 9130
+    },
+    "best_ask": 3,
+    "home_colour": "ffffff",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 463,
+    "share": {
+      "player": 9164
+    },
+    "best_ask": 2,
+    "home_colour": "19244f",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 376,
+    "share": {
+      "player": 9207
+    },
+    "best_ask": 2,
+    "home_colour": "feec25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 349,
+    "share": {
+      "player": 9306
+    },
+    "best_ask": 3,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 5,
+    "share": {
+      "player": 9397
+    },
+    "best_ask": 2,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 376,
+    "share": {
+      "player": 9559
+    },
+    "best_ask": 3,
+    "home_colour": "feec25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 4243,
+    "share": {
+      "player": 9562
+    },
+    "best_ask": 3,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 294,
+    "share": {
+      "player": 9579
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 307,
+    "share": {
+      "player": 9586
+    },
+    "best_ask": 3,
+    "home_colour": "000000",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 131,
+    "share": {
+      "player": 9634
+    },
+    "best_ask": 3,
+    "home_colour": "000000",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1673,
+    "share": {
+      "player": 9713
+    },
+    "best_ask": 3,
+    "home_colour": "0a4201",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 99,
+    "share": {
+      "player": 9802
+    },
+    "best_ask": 2,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 466,
+    "share": {
+      "player": 9847
+    },
+    "best_ask": 3,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 54,
+    "share": {
+      "player": 9850
+    },
+    "best_ask": 2,
+    "home_colour": "FEEC25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 172,
+    "share": {
+      "player": 9983
+    },
+    "best_ask": 3,
+    "home_colour": "ffffff",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 453,
+    "share": {
+      "player": 10018
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 446,
+    "share": {
+      "player": 10085
+    },
+    "best_ask": 2,
+    "home_colour": "9505f0",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 441,
+    "share": {
+      "player": 10149
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 352,
+    "share": {
+      "player": 10258
+    },
+    "best_ask": 2,
+    "home_colour": "63d0fd",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 172,
+    "share": {
+      "player": 10307
+    },
+    "best_ask": 3,
+    "home_colour": "ffffff",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 18,
+    "share": {
+      "player": 10338
+    },
+    "best_ask": 2,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 296,
+    "share": {
+      "player": 10339
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 527,
+    "share": {
+      "player": 10389
+    },
+    "best_ask": 2,
+    "home_colour": "63D0FD",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 516,
+    "share": {
+      "player": 10393
+    },
+    "best_ask": 2,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 517,
+    "share": {
+      "player": 10435
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1458,
+    "share": {
+      "player": 10465
+    },
+    "best_ask": 2,
+    "home_colour": "000000",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 4260,
+    "share": {
+      "player": 10470
+    },
+    "best_ask": 3,
+    "home_colour": "000000",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 98,
+    "share": {
+      "player": 10474
+    },
+    "best_ask": 3,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 128,
+    "share": {
+      "player": 10508
+    },
+    "best_ask": 3,
+    "home_colour": "652339",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 72,
+    "share": {
+      "player": 10510
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 108,
+    "share": {
+      "player": 10538
+    },
+    "best_ask": 3,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 258,
+    "share": {
+      "player": 10546
+    },
+    "best_ask": 2,
+    "home_colour": "0a4201",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 2116,
+    "share": {
+      "player": 10554
+    },
+    "best_ask": 3,
+    "home_colour": "9505f0",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 143,
+    "share": {
+      "player": 10640
+    },
+    "best_ask": 2,
+    "home_colour": "FEEC25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1066,
+    "share": {
+      "player": 10648
+    },
+    "best_ask": 2,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 272,
+    "share": {
+      "player": 10650
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 292,
+    "share": {
+      "player": 10669
+    },
+    "best_ask": 3,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 64,
+    "share": {
+      "player": 10695
+    },
+    "best_ask": 2,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 689,
+    "share": {
+      "player": 10747
+    },
+    "best_ask": 2,
+    "home_colour": "000000",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 516,
+    "share": {
+      "player": 10804
+    },
+    "best_ask": 2,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 527,
+    "share": {
+      "player": 10821
+    },
+    "best_ask": 2,
+    "home_colour": "63D0FD",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 439,
+    "share": {
+      "player": 10860
+    },
+    "best_ask": 3,
+    "home_colour": "FEEC25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 4260,
+    "share": {
+      "player": 10888
+    },
+    "best_ask": 3,
+    "home_colour": "000000",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 517,
+    "share": {
+      "player": 10937
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 344,
+    "share": {
+      "player": 10971
+    },
+    "best_ask": 2,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 288,
+    "share": {
+      "player": 10996
+    },
+    "best_ask": 3,
+    "home_colour": "000000",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 168,
+    "share": {
+      "player": 11013
+    },
+    "best_ask": 5,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 71,
+    "share": {
+      "player": 11016
+    },
+    "best_ask": 2,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 517,
+    "share": {
+      "player": 11039
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 528,
+    "share": {
+      "player": 11052
+    },
+    "best_ask": 2,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1465,
+    "share": {
+      "player": 11239
+    },
+    "best_ask": 3,
+    "home_colour": "feec25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 243,
+    "share": {
+      "player": 11391
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 85,
+    "share": {
+      "player": 11461
+    },
+    "best_ask": 3,
+    "home_colour": "652339",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 86,
+    "share": {
+      "player": 11470
+    },
+    "best_ask": 2,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 355,
+    "share": {
+      "player": 11592
+    },
+    "best_ask": 2,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 588,
+    "share": {
+      "player": 11815
+    },
+    "best_ask": 2,
+    "home_colour": "000000",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 758,
+    "share": {
+      "player": 11921
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 267,
+    "share": {
+      "player": 12080
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 278,
+    "share": {
+      "player": 12088
+    },
+    "best_ask": 2,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 600,
+    "share": {
+      "player": 12090
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 118,
+    "share": {
+      "player": 12266
+    },
+    "best_ask": 3,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 9,
+    "share": {
+      "player": 12288
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 602,
+    "share": {
+      "player": 12464
+    },
+    "best_ask": 3,
+    "home_colour": "63d0fd",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 605,
+    "share": {
+      "player": 12470
+    },
+    "best_ask": 2,
+    "home_colour": "FEEC25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 241,
+    "share": {
+      "player": 12588
+    },
+    "best_ask": 3,
+    "home_colour": "1bac03",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 111,
+    "share": {
+      "player": 12802
+    },
+    "best_ask": 3,
+    "home_colour": "63D0FD",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 291,
+    "share": {
+      "player": 12808
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 288,
+    "share": {
+      "player": 12873
+    },
+    "best_ask": 3,
+    "home_colour": "000000",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": 5,
+    "club_id": 109,
+    "share": {
+      "player": 12927
+    },
+    "best_ask": 10,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 357,
+    "share": {
+      "player": 12974
+    },
+    "best_ask": 2,
+    "home_colour": "ffffff",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 359,
+    "share": {
+      "player": 12998
+    },
+    "best_ask": 3,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 83,
+    "share": {
+      "player": 13018
+    },
+    "best_ask": 3,
+    "home_colour": "FEEC25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": 2,
+    "last_price": null,
+    "club_id": 41,
+    "share": {
+      "player": 13023
+    },
+    "best_ask": 3,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 85,
+    "share": {
+      "player": 13096
+    },
+    "best_ask": 3,
+    "home_colour": "652339",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1673,
+    "share": {
+      "player": 13156
+    },
+    "best_ask": 3,
+    "home_colour": "0a4201",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 697,
+    "share": {
+      "player": 13182
+    },
+    "best_ask": 2,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 445,
+    "share": {
+      "player": 13197
+    },
+    "best_ask": 3,
+    "home_colour": "ffffff",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 472,
+    "share": {
+      "player": 13263
+    },
+    "best_ask": 2,
+    "home_colour": "ffffff",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": 5,
+    "club_id": 80,
+    "share": {
+      "player": 13340
+    },
+    "best_ask": 10,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 325,
+    "share": {
+      "player": 13366
+    },
+    "best_ask": 2,
+    "home_colour": "63D0FD",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 473,
+    "share": {
+      "player": 13409
+    },
+    "best_ask": 2,
+    "home_colour": "63D0FD",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 372,
+    "share": {
+      "player": 13431
+    },
+    "best_ask": 2,
+    "home_colour": "feec25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 677,
+    "share": {
+      "player": 13439
+    },
+    "best_ask": 2,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 32,
+    "share": {
+      "player": 13498
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1892,
+    "share": {
+      "player": 13512
+    },
+    "best_ask": 5,
+    "home_colour": "63d0fd",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 51,
+    "share": {
+      "player": 13523
+    },
+    "best_ask": 2,
+    "home_colour": "19244F",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": 5,
+    "club_id": 163,
+    "share": {
+      "player": 13524
+    },
+    "best_ask": 10,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 2,
+    "share": {
+      "player": 13566
+    },
+    "best_ask": 3,
+    "home_colour": "652339",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 86,
+    "share": {
+      "player": 13569
+    },
+    "best_ask": 2,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 5228,
+    "share": {
+      "player": 13651
+    },
+    "best_ask": 5,
+    "home_colour": "ffffff",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 376,
+    "share": {
+      "player": 13695
+    },
+    "best_ask": 2,
+    "home_colour": "feec25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1180,
+    "share": {
+      "player": 13724
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 163,
+    "share": {
+      "player": 13726
+    },
+    "best_ask": 5,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1180,
+    "share": {
+      "player": 13742
+    },
+    "best_ask": 3,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 788,
+    "share": {
+      "player": 13810
+    },
+    "best_ask": 2,
+    "home_colour": "ffffff",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 470,
+    "share": {
+      "player": 13883
+    },
+    "best_ask": 2,
+    "home_colour": "19244F",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 473,
+    "share": {
+      "player": 13908
+    },
+    "best_ask": 2,
+    "home_colour": "63D0FD",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 85,
+    "share": {
+      "player": 13914
+    },
+    "best_ask": 3,
+    "home_colour": "652339",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 466,
+    "share": {
+      "player": 14044
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 54,
+    "share": {
+      "player": 14151
+    },
+    "best_ask": 3,
+    "home_colour": "FEEC25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 123,
+    "share": {
+      "player": 14156
+    },
+    "best_ask": 3,
+    "home_colour": "652339",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 49,
+    "share": {
+      "player": 14228
+    },
+    "best_ask": 3,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 473,
+    "share": {
+      "player": 14271
+    },
+    "best_ask": 2,
+    "home_colour": "63D0FD",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 291,
+    "share": {
+      "player": 14311
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 297,
+    "share": {
+      "player": 14364
+    },
+    "best_ask": 2,
+    "home_colour": "0A4201",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1336,
+    "share": {
+      "player": 14375
+    },
+    "best_ask": 2,
+    "home_colour": "1BAC03",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 473,
+    "share": {
+      "player": 14388
+    },
+    "best_ask": 2,
+    "home_colour": "63D0FD",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": 10,
+    "club_id": 123,
+    "share": {
+      "player": 14540
+    },
+    "best_ask": 10,
+    "home_colour": "652339",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 605,
+    "share": {
+      "player": 14659
+    },
+    "best_ask": 3,
+    "home_colour": "FEEC25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 54,
+    "share": {
+      "player": 14665
+    },
+    "best_ask": 2,
+    "home_colour": "FEEC25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 376,
+    "share": {
+      "player": 14682
+    },
+    "best_ask": 2,
+    "home_colour": "feec25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 313,
+    "share": {
+      "player": 14689
+    },
+    "best_ask": 2,
+    "home_colour": "19244F",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 76,
+    "share": {
+      "player": 14705
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 373,
+    "share": {
+      "player": 14773
+    },
+    "best_ask": 3,
+    "home_colour": "ffffff",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 341,
+    "share": {
+      "player": 14785
+    },
+    "best_ask": 3,
+    "home_colour": "1bac03",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 77,
+    "share": {
+      "player": 14792
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 209,
+    "share": {
+      "player": 14853
+    },
+    "best_ask": 2,
+    "home_colour": "FEEC25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 133,
+    "share": {
+      "player": 14881
+    },
+    "best_ask": 3,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 491,
+    "share": {
+      "player": 14884
+    },
+    "best_ask": 3,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 128,
+    "share": {
+      "player": 14896
+    },
+    "best_ask": 2,
+    "home_colour": "652339",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 5,
+    "share": {
+      "player": 14939
+    },
+    "best_ask": 2,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 332,
+    "share": {
+      "player": 14965
+    },
+    "best_ask": 2,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 12,
+    "share": {
+      "player": 15087
+    },
+    "best_ask": 3,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 146,
+    "share": {
+      "player": 15156
+    },
+    "best_ask": 3,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 328,
+    "share": {
+      "player": 15158
+    },
+    "best_ask": 2,
+    "home_colour": "F08608",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 330,
+    "share": {
+      "player": 15164
+    },
+    "best_ask": 5,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 350,
+    "share": {
+      "player": 15169
+    },
+    "best_ask": 3,
+    "home_colour": "19244f",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 21,
+    "share": {
+      "player": 15177
+    },
+    "best_ask": 5,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 520,
+    "share": {
+      "player": 15276
+    },
+    "best_ask": 3,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 15,
+    "share": {
+      "player": 15282
+    },
+    "best_ask": 3,
+    "home_colour": "652339",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 359,
+    "share": {
+      "player": 15298
+    },
+    "best_ask": 3,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 118,
+    "share": {
+      "player": 15306
+    },
+    "best_ask": 3,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1519,
+    "share": {
+      "player": 15311
+    },
+    "best_ask": 3,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 133,
+    "share": {
+      "player": 15315
+    },
+    "best_ask": 2,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 27,
+    "share": {
+      "player": 15655
+    },
+    "best_ask": 3,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": 3,
+    "club_id": 40,
+    "share": {
+      "player": 15937
+    },
+    "best_ask": 6,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 143,
+    "share": {
+      "player": 15945
+    },
+    "best_ask": 3,
+    "home_colour": "FEEC25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 246,
+    "share": {
+      "player": 15949
+    },
+    "best_ask": 3,
+    "home_colour": "1BAC03",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 176,
+    "share": {
+      "player": 15950
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 789,
+    "share": {
+      "player": 16012
+    },
+    "best_ask": 2,
+    "home_colour": "FEEC25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1560,
+    "share": {
+      "player": 16036
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 350,
+    "share": {
+      "player": 16044
+    },
+    "best_ask": 3,
+    "home_colour": "19244f",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1068,
+    "share": {
+      "player": 16048
+    },
+    "best_ask": 3,
+    "home_colour": "F08608",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 41,
+    "share": {
+      "player": 16050
+    },
+    "best_ask": 5,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": 3,
+    "club_id": 432,
+    "share": {
+      "player": 16146
+    },
+    "best_ask": 6,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1226,
+    "share": {
+      "player": 16178
+    },
+    "best_ask": 3,
+    "home_colour": "F08608",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1156,
+    "share": {
+      "player": 16315
+    },
+    "best_ask": 2,
+    "home_colour": "ffffff",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 111,
+    "share": {
+      "player": 16327
+    },
+    "best_ask": 3,
+    "home_colour": "63D0FD",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 463,
+    "share": {
+      "player": 16332
+    },
+    "best_ask": 2,
+    "home_colour": "19244f",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 350,
+    "share": {
+      "player": 16344
+    },
+    "best_ask": 3,
+    "home_colour": "19244f",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 535,
+    "share": {
+      "player": 16484
+    },
+    "best_ask": 3,
+    "home_colour": "FEEC25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 432,
+    "share": {
+      "player": 16538
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 368,
+    "share": {
+      "player": 16547
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 730,
+    "share": {
+      "player": 16587
+    },
+    "best_ask": 2,
+    "home_colour": "652339",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 246,
+    "share": {
+      "player": 16633
+    },
+    "best_ask": 3,
+    "home_colour": "1BAC03",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 169,
+    "share": {
+      "player": 16665
+    },
+    "best_ask": 3,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 817,
+    "share": {
+      "player": 16680
+    },
+    "best_ask": 2,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 817,
+    "share": {
+      "player": 16787
+    },
+    "best_ask": 2,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": 3,
+    "club_id": 165,
+    "share": {
+      "player": 16877
+    },
+    "best_ask": 3,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 36,
+    "share": {
+      "player": 16963
+    },
+    "best_ask": 2,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": 3,
+    "club_id": 21,
+    "share": {
+      "player": 17032
+    },
+    "best_ask": 3,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 349,
+    "share": {
+      "player": 17051
+    },
+    "best_ask": 3,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 351,
+    "share": {
+      "player": 17053
+    },
+    "best_ask": 2,
+    "home_colour": "feec25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": 5,
+    "club_id": 218,
+    "share": {
+      "player": 17054
+    },
+    "best_ask": 5,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1334,
+    "share": {
+      "player": 17087
+    },
+    "best_ask": 2,
+    "home_colour": "19244f",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 270,
+    "share": {
+      "player": 17095
+    },
+    "best_ask": 3,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 109,
+    "share": {
+      "player": 17234
+    },
+    "best_ask": 3,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 259,
+    "share": {
+      "player": 17322
+    },
+    "best_ask": 3,
+    "home_colour": "feec25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 108,
+    "share": {
+      "player": 17350
+    },
+    "best_ask": 3,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 125,
+    "share": {
+      "player": 17353
+    },
+    "best_ask": 5,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 99,
+    "share": {
+      "player": 17370
+    },
+    "best_ask": 3,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 133,
+    "share": {
+      "player": 17388
+    },
+    "best_ask": 2,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": 5,
+    "club_id": 110,
+    "share": {
+      "player": 17403
+    },
+    "best_ask": 10,
+    "home_colour": "000000",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": 3,
+    "club_id": 862,
+    "share": {
+      "player": 17442
+    },
+    "best_ask": 3,
+    "home_colour": "1BAC03",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 110,
+    "share": {
+      "player": 17456
+    },
+    "best_ask": 3,
+    "home_colour": "000000",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 443,
+    "share": {
+      "player": 17464
+    },
+    "best_ask": 3,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1467,
+    "share": {
+      "player": 17477
+    },
+    "best_ask": 2,
+    "home_colour": "63d0fd",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 112,
+    "share": {
+      "player": 17498
+    },
+    "best_ask": 3,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 439,
+    "share": {
+      "player": 17543
+    },
+    "best_ask": 3,
+    "home_colour": "FEEC25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 363,
+    "share": {
+      "player": 17561
+    },
+    "best_ask": 3,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 109,
+    "share": {
+      "player": 17566
+    },
+    "best_ask": 5,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 107,
+    "share": {
+      "player": 17583
+    },
+    "best_ask": 3,
+    "home_colour": "9505F0",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 286,
+    "share": {
+      "player": 17676
+    },
+    "best_ask": 3,
+    "home_colour": "ffffff",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 2121,
+    "share": {
+      "player": 17720
+    },
+    "best_ask": 2,
+    "home_colour": "bdbcb8",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 376,
+    "share": {
+      "player": 17793
+    },
+    "best_ask": 2,
+    "home_colour": "feec25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": 10,
+    "club_id": 49,
+    "share": {
+      "player": 17811
+    },
+    "best_ask": 10,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 758,
+    "share": {
+      "player": 17852
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 3910,
+    "share": {
+      "player": 17868
+    },
+    "best_ask": 2,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 443,
+    "share": {
+      "player": 17886
+    },
+    "best_ask": 3,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 447,
+    "share": {
+      "player": 17897
+    },
+    "best_ask": 2,
+    "home_colour": "19244f",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": 3,
+    "club_id": 111,
+    "share": {
+      "player": 17915
+    },
+    "best_ask": 3,
+    "home_colour": "63D0FD",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 455,
+    "share": {
+      "player": 17955
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 461,
+    "share": {
+      "player": 17959
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 3910,
+    "share": {
+      "player": 17964
+    },
+    "best_ask": 2,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 446,
+    "share": {
+      "player": 17970
+    },
+    "best_ask": 2,
+    "home_colour": "9505f0",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1334,
+    "share": {
+      "player": 18008
+    },
+    "best_ask": 3,
+    "home_colour": "19244f",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 84,
+    "share": {
+      "player": 18017
+    },
+    "best_ask": 2,
+    "home_colour": "19244f",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 373,
+    "share": {
+      "player": 18034
+    },
+    "best_ask": 2,
+    "home_colour": "ffffff",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 517,
+    "share": {
+      "player": 18073
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 500,
+    "share": {
+      "player": 18103
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 100,
+    "share": {
+      "player": 18158
+    },
+    "best_ask": 5,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 304,
+    "share": {
+      "player": 18205
+    },
+    "best_ask": 3,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1521,
+    "share": {
+      "player": 18234
+    },
+    "best_ask": 2,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 290,
+    "share": {
+      "player": 18237
+    },
+    "best_ask": 3,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 307,
+    "share": {
+      "player": 18243
+    },
+    "best_ask": 2,
+    "home_colour": "000000",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 287,
+    "share": {
+      "player": 18262
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 287,
+    "share": {
+      "player": 18266
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 518,
+    "share": {
+      "player": 18267
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 300,
+    "share": {
+      "player": 18270
+    },
+    "best_ask": 3,
+    "home_colour": "0a4201",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 290,
+    "share": {
+      "player": 18276
+    },
+    "best_ask": 3,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1153,
+    "share": {
+      "player": 18281
+    },
+    "best_ask": 3,
+    "home_colour": "1BAC03",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": 5,
+    "club_id": 96,
+    "share": {
+      "player": 18297
+    },
+    "best_ask": 5,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 451,
+    "share": {
+      "player": 18314
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 290,
+    "share": {
+      "player": 18318
+    },
+    "best_ask": 3,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1237,
+    "share": {
+      "player": 18331
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": 5,
+    "club_id": 21,
+    "share": {
+      "player": 18338
+    },
+    "best_ask": 5,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 72,
+    "share": {
+      "player": 18383
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 274,
+    "share": {
+      "player": 18416
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": 5,
+    "club_id": 338,
+    "share": {
+      "player": 18422
+    },
+    "best_ask": 10,
+    "home_colour": "19244f",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 176,
+    "share": {
+      "player": 18425
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 277,
+    "share": {
+      "player": 18426
+    },
+    "best_ask": 3,
+    "home_colour": "652339",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1654,
+    "share": {
+      "player": 18430
+    },
+    "best_ask": 3,
+    "home_colour": "0A4201",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 267,
+    "share": {
+      "player": 18452
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 267,
+    "share": {
+      "player": 18455
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 128,
+    "share": {
+      "player": 18515
+    },
+    "best_ask": 3,
+    "home_colour": "652339",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 450,
+    "share": {
+      "player": 18519
+    },
+    "best_ask": 3,
+    "home_colour": "FEEC25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 267,
+    "share": {
+      "player": 18523
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 282,
+    "share": {
+      "player": 18534
+    },
+    "best_ask": 3,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 284,
+    "share": {
+      "player": 18538
+    },
+    "best_ask": 2,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 438,
+    "share": {
+      "player": 18557
+    },
+    "best_ask": 2,
+    "home_colour": "000000",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 281,
+    "share": {
+      "player": 18560
+    },
+    "best_ask": 3,
+    "home_colour": "63D0FD",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 445,
+    "share": {
+      "player": 18564
+    },
+    "best_ask": 3,
+    "home_colour": "ffffff",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1212,
+    "share": {
+      "player": 18566
+    },
+    "best_ask": 2,
+    "home_colour": "000000",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 371,
+    "share": {
+      "player": 18591
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 88,
+    "share": {
+      "player": 18649
+    },
+    "best_ask": 5,
+    "home_colour": "cba810",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 370,
+    "share": {
+      "player": 18651
+    },
+    "best_ask": 2,
+    "home_colour": "FEEC25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 473,
+    "share": {
+      "player": 18656
+    },
+    "best_ask": 2,
+    "home_colour": "63D0FD",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 148,
+    "share": {
+      "player": 18693
+    },
+    "best_ask": 2,
+    "home_colour": "ffffff",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 438,
+    "share": {
+      "player": 18699
+    },
+    "best_ask": 2,
+    "home_colour": "000000",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 241,
+    "share": {
+      "player": 18729
+    },
+    "best_ask": 2,
+    "home_colour": "1bac03",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 41,
+    "share": {
+      "player": 18746
+    },
+    "best_ask": 2,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 27,
+    "share": {
+      "player": 18766
+    },
+    "best_ask": 3,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 259,
+    "share": {
+      "player": 18805
+    },
+    "best_ask": 2,
+    "home_colour": "feec25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1673,
+    "share": {
+      "player": 18827
+    },
+    "best_ask": 3,
+    "home_colour": "0a4201",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 20,
+    "share": {
+      "player": 18850
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 67,
+    "share": {
+      "player": 18881
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 27,
+    "share": {
+      "player": 18899
+    },
+    "best_ask": 3,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 38,
+    "share": {
+      "player": 18977
+    },
+    "best_ask": 2,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 421,
+    "share": {
+      "player": 19034
+    },
+    "best_ask": 2,
+    "home_colour": "1BAC03",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 120,
+    "share": {
+      "player": 19093
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1290,
+    "share": {
+      "player": 19150
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 133,
+    "share": {
+      "player": 19159
+    },
+    "best_ask": 3,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 109,
+    "share": {
+      "player": 19162
+    },
+    "best_ask": 3,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 106,
+    "share": {
+      "player": 19163
+    },
+    "best_ask": 2,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 311,
+    "share": {
+      "player": 19182
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 61,
+    "share": {
+      "player": 19191
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 340,
+    "share": {
+      "player": 19203
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 133,
+    "share": {
+      "player": 19306
+    },
+    "best_ask": 3,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 98,
+    "share": {
+      "player": 19375
+    },
+    "best_ask": 3,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 758,
+    "share": {
+      "player": 19383
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1654,
+    "share": {
+      "player": 19387
+    },
+    "best_ask": 2,
+    "home_colour": "0A4201",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 315,
+    "share": {
+      "player": 19393
+    },
+    "best_ask": 2,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 284,
+    "share": {
+      "player": 19402
+    },
+    "best_ask": 3,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 341,
+    "share": {
+      "player": 19407
+    },
+    "best_ask": 3,
+    "home_colour": "1bac03",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 218,
+    "share": {
+      "player": 19408
+    },
+    "best_ask": 3,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 347,
+    "share": {
+      "player": 19426
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 31,
+    "share": {
+      "player": 19431
+    },
+    "best_ask": 3,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 51,
+    "share": {
+      "player": 19443
+    },
+    "best_ask": 2,
+    "home_colour": "19244F",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 109,
+    "share": {
+      "player": 19480
+    },
+    "best_ask": 5,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": 10,
+    "club_id": 180,
+    "share": {
+      "player": 19587
+    },
+    "best_ask": 10,
+    "home_colour": "ffffff",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 362,
+    "share": {
+      "player": 19720
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 173,
+    "share": {
+      "player": 19732
+    },
+    "best_ask": 3,
+    "home_colour": "9505f0",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 284,
+    "share": {
+      "player": 19739
+    },
+    "best_ask": 3,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 364,
+    "share": {
+      "player": 19743
+    },
+    "best_ask": 2,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 600,
+    "share": {
+      "player": 19818
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 446,
+    "share": {
+      "player": 19857
+    },
+    "best_ask": 2,
+    "home_colour": "9505f0",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 446,
+    "share": {
+      "player": 19859
+    },
+    "best_ask": 3,
+    "home_colour": "9505f0",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 364,
+    "share": {
+      "player": 19957
+    },
+    "best_ask": 2,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 354,
+    "share": {
+      "player": 19973
+    },
+    "best_ask": 3,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1521,
+    "share": {
+      "player": 19974
+    },
+    "best_ask": 2,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 588,
+    "share": {
+      "player": 20164
+    },
+    "best_ask": 2,
+    "home_colour": "000000",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 364,
+    "share": {
+      "player": 20165
+    },
+    "best_ask": 2,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 108,
+    "share": {
+      "player": 20238
+    },
+    "best_ask": 3,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 461,
+    "share": {
+      "player": 20242
+    },
+    "best_ask": 3,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 746,
+    "share": {
+      "player": 20252
+    },
+    "best_ask": 5,
+    "home_colour": "63D0FD",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1,
+    "share": {
+      "player": 20377
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 131,
+    "share": {
+      "player": 20383
+    },
+    "best_ask": 2,
+    "home_colour": "000000",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 201,
+    "share": {
+      "player": 20402
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 369,
+    "share": {
+      "player": 20466
+    },
+    "best_ask": 3,
+    "home_colour": "652339",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 817,
+    "share": {
+      "player": 20527
+    },
+    "best_ask": 3,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 40,
+    "share": {
+      "player": 20538
+    },
+    "best_ask": 3,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 332,
+    "share": {
+      "player": 20554
+    },
+    "best_ask": 3,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 535,
+    "share": {
+      "player": 20555
+    },
+    "best_ask": 3,
+    "home_colour": "FEEC25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1334,
+    "share": {
+      "player": 20562
+    },
+    "best_ask": 3,
+    "home_colour": "19244f",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 107,
+    "share": {
+      "player": 20564
+    },
+    "best_ask": 3,
+    "home_colour": "9505F0",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 2085,
+    "share": {
+      "player": 20566
+    },
+    "best_ask": 3,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 149,
+    "share": {
+      "player": 20575
+    },
+    "best_ask": 3,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 123,
+    "share": {
+      "player": 20592
+    },
+    "best_ask": 3,
+    "home_colour": "652339",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 100,
+    "share": {
+      "player": 20605
+    },
+    "best_ask": 2,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 458,
+    "share": {
+      "player": 20627
+    },
+    "best_ask": 2,
+    "home_colour": "FEEC25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 51,
+    "share": {
+      "player": 20628
+    },
+    "best_ask": 2,
+    "home_colour": "19244F",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 157,
+    "share": {
+      "player": 20655
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 371,
+    "share": {
+      "player": 20672
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 904,
+    "share": {
+      "player": 20679
+    },
+    "best_ask": 2,
+    "home_colour": "000000",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 461,
+    "share": {
+      "player": 20685
+    },
+    "best_ask": 3,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 450,
+    "share": {
+      "player": 20686
+    },
+    "best_ask": 3,
+    "home_colour": "FEEC25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 450,
+    "share": {
+      "player": 20690
+    },
+    "best_ask": 3,
+    "home_colour": "FEEC25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 464,
+    "share": {
+      "player": 20702
+    },
+    "best_ask": 3,
+    "home_colour": "F08608",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1068,
+    "share": {
+      "player": 20734
+    },
+    "best_ask": 3,
+    "home_colour": "F08608",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1416,
+    "share": {
+      "player": 20758
+    },
+    "best_ask": 2,
+    "home_colour": "1BAC03",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 689,
+    "share": {
+      "player": 20817
+    },
+    "best_ask": 2,
+    "home_colour": "000000",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 746,
+    "share": {
+      "player": 20878
+    },
+    "best_ask": 3,
+    "home_colour": "63D0FD",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1334,
+    "share": {
+      "player": 20889
+    },
+    "best_ask": 2,
+    "home_colour": "19244f",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 278,
+    "share": {
+      "player": 20898
+    },
+    "best_ask": 3,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 758,
+    "share": {
+      "player": 20905
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 283,
+    "share": {
+      "player": 20906
+    },
+    "best_ask": 2,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 9,
+    "share": {
+      "player": 20999
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 50,
+    "share": {
+      "player": 21000
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 15,
+    "share": {
+      "player": 21003
+    },
+    "best_ask": 3,
+    "home_colour": "652339",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 85,
+    "share": {
+      "player": 21004
+    },
+    "best_ask": 3,
+    "home_colour": "652339",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": 3,
+    "club_id": 351,
+    "share": {
+      "player": 21016
+    },
+    "best_ask": 3,
+    "home_colour": "feec25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1416,
+    "share": {
+      "player": 21056
+    },
+    "best_ask": 2,
+    "home_colour": "1BAC03",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1416,
+    "share": {
+      "player": 21095
+    },
+    "best_ask": 2,
+    "home_colour": "1BAC03",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 13,
+    "share": {
+      "player": 21130
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 287,
+    "share": {
+      "player": 21284
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 52,
+    "share": {
+      "player": 21288
+    },
+    "best_ask": 3,
+    "home_colour": "ffffff",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 27,
+    "share": {
+      "player": 21291
+    },
+    "best_ask": 3,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 300,
+    "share": {
+      "player": 21671
+    },
+    "best_ask": 3,
+    "home_colour": "0a4201",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 139,
+    "share": {
+      "player": 21674
+    },
+    "best_ask": 5,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1,
+    "share": {
+      "player": 21765
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 730,
+    "share": {
+      "player": 21894
+    },
+    "best_ask": 2,
+    "home_colour": "652339",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 265,
+    "share": {
+      "player": 21897
+    },
+    "best_ask": 3,
+    "home_colour": "63D0FD",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 4,
+    "share": {
+      "player": 22083
+    },
+    "best_ask": 2,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 21,
+    "share": {
+      "player": 22179
+    },
+    "best_ask": 5,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 85,
+    "share": {
+      "player": 22257
+    },
+    "best_ask": 3,
+    "home_colour": "652339",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 12,
+    "share": {
+      "player": 22276
+    },
+    "best_ask": 3,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 75,
+    "share": {
+      "player": 22285
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 86,
+    "share": {
+      "player": 22296
+    },
+    "best_ask": 2,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 65,
+    "share": {
+      "player": 22299
+    },
+    "best_ask": 2,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 13,
+    "share": {
+      "player": 22303
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 277,
+    "share": {
+      "player": 22319
+    },
+    "best_ask": 2,
+    "home_colour": "652339",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 131,
+    "share": {
+      "player": 22334
+    },
+    "best_ask": 2,
+    "home_colour": "000000",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 120,
+    "share": {
+      "player": 22361
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 310,
+    "share": {
+      "player": 22383
+    },
+    "best_ask": 3,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 353,
+    "share": {
+      "player": 22384
+    },
+    "best_ask": 2,
+    "home_colour": "9505f0",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 255,
+    "share": {
+      "player": 22385
+    },
+    "best_ask": 3,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 518,
+    "share": {
+      "player": 22391
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 336,
+    "share": {
+      "player": 22401
+    },
+    "best_ask": 3,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 344,
+    "share": {
+      "player": 22402
+    },
+    "best_ask": 2,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": 5,
+    "club_id": 80,
+    "share": {
+      "player": 22410
+    },
+    "best_ask": 5,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 2288,
+    "share": {
+      "player": 22411
+    },
+    "best_ask": 2,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 83,
+    "share": {
+      "player": 22555
+    },
+    "best_ask": 3,
+    "home_colour": "FEEC25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 680,
+    "share": {
+      "player": 22564
+    },
+    "best_ask": 2,
+    "home_colour": "1bac03",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 520,
+    "share": {
+      "player": 22592
+    },
+    "best_ask": 3,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1226,
+    "share": {
+      "player": 22607
+    },
+    "best_ask": 3,
+    "home_colour": "F08608",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1,
+    "share": {
+      "player": 22645
+    },
+    "best_ask": 5,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": 10,
+    "club_id": 44,
+    "share": {
+      "player": 22649
+    },
+    "best_ask": 10,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 224,
+    "share": {
+      "player": 22693
+    },
+    "best_ask": 2,
+    "home_colour": "ffffff",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1612,
+    "share": {
+      "player": 22853
+    },
+    "best_ask": 2,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": 5,
+    "club_id": 174,
+    "share": {
+      "player": 22857
+    },
+    "best_ask": 10,
+    "home_colour": "FEEC25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 2031,
+    "share": {
+      "player": 22918
+    },
+    "best_ask": 2,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1066,
+    "share": {
+      "player": 22922
+    },
+    "best_ask": 1,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1068,
+    "share": {
+      "player": 22946
+    },
+    "best_ask": 2,
+    "home_colour": "F08608",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1521,
+    "share": {
+      "player": 22954
+    },
+    "best_ask": 2,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1066,
+    "share": {
+      "player": 22962
+    },
+    "best_ask": 2,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1892,
+    "share": {
+      "player": 22969
+    },
+    "best_ask": 2,
+    "home_colour": "63d0fd",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1892,
+    "share": {
+      "player": 22970
+    },
+    "best_ask": 2,
+    "home_colour": "63d0fd",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1066,
+    "share": {
+      "player": 22972
+    },
+    "best_ask": 2,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1068,
+    "share": {
+      "player": 22990
+    },
+    "best_ask": 2,
+    "home_colour": "F08608",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1068,
+    "share": {
+      "player": 23009
+    },
+    "best_ask": 1,
+    "home_colour": "F08608",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1068,
+    "share": {
+      "player": 23010
+    },
+    "best_ask": 2,
+    "home_colour": "F08608",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1068,
+    "share": {
+      "player": 23015
+    },
+    "best_ask": 1,
+    "home_colour": "F08608",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1180,
+    "share": {
+      "player": 23037
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 67,
+    "share": {
+      "player": 23044
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1421,
+    "share": {
+      "player": 23053
+    },
+    "best_ask": 3,
+    "home_colour": "1BAC03",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 2031,
+    "share": {
+      "player": 23317
+    },
+    "best_ask": 2,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 4243,
+    "share": {
+      "player": 23328
+    },
+    "best_ask": 2,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 84,
+    "share": {
+      "player": 23383
+    },
+    "best_ask": 3,
+    "home_colour": "19244f",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 45,
+    "share": {
+      "player": 23391
+    },
+    "best_ask": 2,
+    "home_colour": "F08608",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": 3,
+    "club_id": 146,
+    "share": {
+      "player": 23401
+    },
+    "best_ask": 6,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 500,
+    "share": {
+      "player": 23402
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1226,
+    "share": {
+      "player": 23411
+    },
+    "best_ask": 3,
+    "home_colour": "F08608",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 923,
+    "share": {
+      "player": 23425
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 500,
+    "share": {
+      "player": 23469
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 518,
+    "share": {
+      "player": 23490
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 677,
+    "share": {
+      "player": 23555
+    },
+    "best_ask": 2,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 680,
+    "share": {
+      "player": 23561
+    },
+    "best_ask": 2,
+    "home_colour": "1bac03",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 51,
+    "share": {
+      "player": 23571
+    },
+    "best_ask": 2,
+    "home_colour": "19244F",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 527,
+    "share": {
+      "player": 23572
+    },
+    "best_ask": 2,
+    "home_colour": "63D0FD",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 518,
+    "share": {
+      "player": 23612
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 680,
+    "share": {
+      "player": 23615
+    },
+    "best_ask": 2,
+    "home_colour": "1bac03",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 2031,
+    "share": {
+      "player": 23689
+    },
+    "best_ask": 2,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 98,
+    "share": {
+      "player": 23933
+    },
+    "best_ask": 3,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 362,
+    "share": {
+      "player": 23947
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 284,
+    "share": {
+      "player": 23949
+    },
+    "best_ask": 2,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1212,
+    "share": {
+      "player": 23951
+    },
+    "best_ask": 2,
+    "home_colour": "000000",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 71,
+    "share": {
+      "player": 23969
+    },
+    "best_ask": 2,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 441,
+    "share": {
+      "player": 23974
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 620,
+    "share": {
+      "player": 23976
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 912,
+    "share": {
+      "player": 24033
+    },
+    "best_ask": 2,
+    "home_colour": "1BAC03",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1619,
+    "share": {
+      "player": 24047
+    },
+    "best_ask": 3,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 281,
+    "share": {
+      "player": 24112
+    },
+    "best_ask": 2,
+    "home_colour": "63D0FD",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 292,
+    "share": {
+      "player": 24115
+    },
+    "best_ask": 2,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 278,
+    "share": {
+      "player": 24123
+    },
+    "best_ask": 2,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 272,
+    "share": {
+      "player": 24127
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 282,
+    "share": {
+      "player": 24136
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 375,
+    "share": {
+      "player": 24137
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 49,
+    "share": {
+      "player": 24138
+    },
+    "best_ask": 3,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 282,
+    "share": {
+      "player": 24142
+    },
+    "best_ask": 3,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 283,
+    "share": {
+      "player": 24146
+    },
+    "best_ask": 2,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 272,
+    "share": {
+      "player": 24152
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 274,
+    "share": {
+      "player": 24153
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 443,
+    "share": {
+      "player": 24154
+    },
+    "best_ask": 3,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 912,
+    "share": {
+      "player": 24164
+    },
+    "best_ask": 2,
+    "home_colour": "1BAC03",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 375,
+    "share": {
+      "player": 24347
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1654,
+    "share": {
+      "player": 24386
+    },
+    "best_ask": 2,
+    "home_colour": "0A4201",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 348,
+    "share": {
+      "player": 24580
+    },
+    "best_ask": 3,
+    "home_colour": "f08608",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 4,
+    "share": {
+      "player": 24730
+    },
+    "best_ask": 2,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 461,
+    "share": {
+      "player": 24964
+    },
+    "best_ask": 3,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 338,
+    "share": {
+      "player": 25010
+    },
+    "best_ask": 5,
+    "home_colour": "19244f",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 439,
+    "share": {
+      "player": 25118
+    },
+    "best_ask": 2,
+    "home_colour": "FEEC25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 443,
+    "share": {
+      "player": 25155
+    },
+    "best_ask": 3,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 84,
+    "share": {
+      "player": 25260
+    },
+    "best_ask": 3,
+    "home_colour": "19244f",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 255,
+    "share": {
+      "player": 25264
+    },
+    "best_ask": 2,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 115,
+    "share": {
+      "player": 25267
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 168,
+    "share": {
+      "player": 25268
+    },
+    "best_ask": 5,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": 5,
+    "club_id": 1,
+    "share": {
+      "player": 25270
+    },
+    "best_ask": 10,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1673,
+    "share": {
+      "player": 25424
+    },
+    "best_ask": 3,
+    "home_colour": "0a4201",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 348,
+    "share": {
+      "player": 25503
+    },
+    "best_ask": 3,
+    "home_colour": "f08608",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 677,
+    "share": {
+      "player": 25585
+    },
+    "best_ask": 2,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 677,
+    "share": {
+      "player": 25586
+    },
+    "best_ask": 2,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 506,
+    "share": {
+      "player": 25595
+    },
+    "best_ask": 2,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 125,
+    "share": {
+      "player": 25598
+    },
+    "best_ask": 3,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 517,
+    "share": {
+      "player": 25599
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 274,
+    "share": {
+      "player": 25663
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 128,
+    "share": {
+      "player": 25724
+    },
+    "best_ask": 2,
+    "home_colour": "652339",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 125,
+    "share": {
+      "player": 25898
+    },
+    "best_ask": 3,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 371,
+    "share": {
+      "player": 25949
+    },
+    "best_ask": 3,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 803,
+    "share": {
+      "player": 25954
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 697,
+    "share": {
+      "player": 25978
+    },
+    "best_ask": 2,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1790,
+    "share": {
+      "player": 26056
+    },
+    "best_ask": 2,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1421,
+    "share": {
+      "player": 26297
+    },
+    "best_ask": 3,
+    "home_colour": "1BAC03",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 271,
+    "share": {
+      "player": 26307
+    },
+    "best_ask": 2,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 447,
+    "share": {
+      "player": 26398
+    },
+    "best_ask": 3,
+    "home_colour": "19244f",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1892,
+    "share": {
+      "player": 26437
+    },
+    "best_ask": 2,
+    "home_colour": "63d0fd",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1521,
+    "share": {
+      "player": 26448
+    },
+    "best_ask": 2,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1153,
+    "share": {
+      "player": 26453
+    },
+    "best_ask": 1,
+    "home_colour": "1BAC03",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 2031,
+    "share": {
+      "player": 26482
+    },
+    "best_ask": 1,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1336,
+    "share": {
+      "player": 26526
+    },
+    "best_ask": 2,
+    "home_colour": "1BAC03",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 118,
+    "share": {
+      "player": 26527
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 438,
+    "share": {
+      "player": 26551
+    },
+    "best_ask": 2,
+    "home_colour": "000000",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 862,
+    "share": {
+      "player": 26655
+    },
+    "best_ask": 3,
+    "home_colour": "1BAC03",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1421,
+    "share": {
+      "player": 26819
+    },
+    "best_ask": 2,
+    "home_colour": "1BAC03",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": 5,
+    "club_id": 1521,
+    "share": {
+      "player": 26843
+    },
+    "best_ask": 5,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 169,
+    "share": {
+      "player": 26967
+    },
+    "best_ask": 2,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 307,
+    "share": {
+      "player": 26972
+    },
+    "best_ask": 2,
+    "home_colour": "000000",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 363,
+    "share": {
+      "player": 26975
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 49,
+    "share": {
+      "player": 27685
+    },
+    "best_ask": 5,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 138,
+    "share": {
+      "player": 27736
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 363,
+    "share": {
+      "player": 27754
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1180,
+    "share": {
+      "player": 27811
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 272,
+    "share": {
+      "player": 27822
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 602,
+    "share": {
+      "player": 27873
+    },
+    "best_ask": 2,
+    "home_colour": "63d0fd",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 306,
+    "share": {
+      "player": 27877
+    },
+    "best_ask": 3,
+    "home_colour": "ffffff",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1473,
+    "share": {
+      "player": 27879
+    },
+    "best_ask": 2,
+    "home_colour": "ffffff",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 602,
+    "share": {
+      "player": 27889
+    },
+    "best_ask": 3,
+    "home_colour": "63d0fd",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 451,
+    "share": {
+      "player": 27894
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 291,
+    "share": {
+      "player": 27912
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 291,
+    "share": {
+      "player": 27916
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 330,
+    "share": {
+      "player": 27922
+    },
+    "best_ask": 3,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 602,
+    "share": {
+      "player": 27932
+    },
+    "best_ask": 3,
+    "home_colour": "63d0fd",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 491,
+    "share": {
+      "player": 27933
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 292,
+    "share": {
+      "player": 27947
+    },
+    "best_ask": 2,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 286,
+    "share": {
+      "player": 27948
+    },
+    "best_ask": 3,
+    "home_colour": "ffffff",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 300,
+    "share": {
+      "player": 27951
+    },
+    "best_ask": 3,
+    "home_colour": "0a4201",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 491,
+    "share": {
+      "player": 27957
+    },
+    "best_ask": 3,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": 3,
+    "club_id": 923,
+    "share": {
+      "player": 27959
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 162,
+    "share": {
+      "player": 27978
+    },
+    "best_ask": 3,
+    "home_colour": "1bac03",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 348,
+    "share": {
+      "player": 27981
+    },
+    "best_ask": 2,
+    "home_colour": "f08608",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 602,
+    "share": {
+      "player": 27985
+    },
+    "best_ask": 2,
+    "home_colour": "63d0fd",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 306,
+    "share": {
+      "player": 27996
+    },
+    "best_ask": 2,
+    "home_colour": "ffffff",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 329,
+    "share": {
+      "player": 27997
+    },
+    "best_ask": 3,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 348,
+    "share": {
+      "player": 27998
+    },
+    "best_ask": 3,
+    "home_colour": "f08608",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 258,
+    "share": {
+      "player": 28003
+    },
+    "best_ask": 3,
+    "home_colour": "0a4201",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 295,
+    "share": {
+      "player": 28023
+    },
+    "best_ask": 3,
+    "home_colour": "1BAC03",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1237,
+    "share": {
+      "player": 28041
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 445,
+    "share": {
+      "player": 28129
+    },
+    "best_ask": 3,
+    "home_colour": "ffffff",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 356,
+    "share": {
+      "player": 28247
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1467,
+    "share": {
+      "player": 28303
+    },
+    "best_ask": 2,
+    "home_colour": "63d0fd",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1226,
+    "share": {
+      "player": 28314
+    },
+    "best_ask": 2,
+    "home_colour": "F08608",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 27,
+    "share": {
+      "player": 28380
+    },
+    "best_ask": 3,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 115,
+    "share": {
+      "player": 28423
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 451,
+    "share": {
+      "player": 28530
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 111,
+    "share": {
+      "player": 28623
+    },
+    "best_ask": 2,
+    "home_colour": "63D0FD",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 255,
+    "share": {
+      "player": 28642
+    },
+    "best_ask": 2,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1066,
+    "share": {
+      "player": 28686
+    },
+    "best_ask": 3,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 110,
+    "share": {
+      "player": 28700
+    },
+    "best_ask": 5,
+    "home_colour": "000000",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 75,
+    "share": {
+      "player": 28701
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 371,
+    "share": {
+      "player": 28724
+    },
+    "best_ask": 3,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 118,
+    "share": {
+      "player": 28778
+    },
+    "best_ask": 3,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 364,
+    "share": {
+      "player": 28837
+    },
+    "best_ask": 2,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 817,
+    "share": {
+      "player": 28840
+    },
+    "best_ask": 2,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 369,
+    "share": {
+      "player": 28846
+    },
+    "best_ask": 2,
+    "home_colour": "652339",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 80,
+    "share": {
+      "player": 28904
+    },
+    "best_ask": 5,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 54,
+    "share": {
+      "player": 28909
+    },
+    "best_ask": 2,
+    "home_colour": "FEEC25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 2288,
+    "share": {
+      "player": 28992
+    },
+    "best_ask": 5,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 354,
+    "share": {
+      "player": 29048
+    },
+    "best_ask": 3,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 36,
+    "share": {
+      "player": 29063
+    },
+    "best_ask": 2,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 2085,
+    "share": {
+      "player": 29070
+    },
+    "best_ask": 3,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 125,
+    "share": {
+      "player": 29087
+    },
+    "best_ask": 3,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 520,
+    "share": {
+      "player": 29104
+    },
+    "best_ask": 2,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 382,
+    "share": {
+      "player": 29129
+    },
+    "best_ask": 3,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 461,
+    "share": {
+      "player": 29140
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 267,
+    "share": {
+      "player": 29141
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 310,
+    "share": {
+      "player": 29178
+    },
+    "best_ask": 3,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 75,
+    "share": {
+      "player": 29180
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": 5,
+    "club_id": 140,
+    "share": {
+      "player": 29182
+    },
+    "best_ask": 10,
+    "home_colour": "652339",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 350,
+    "share": {
+      "player": 29186
+    },
+    "best_ask": 3,
+    "home_colour": "19244f",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 351,
+    "share": {
+      "player": 29200
+    },
+    "best_ask": 3,
+    "home_colour": "feec25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 322,
+    "share": {
+      "player": 29201
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 344,
+    "share": {
+      "player": 29205
+    },
+    "best_ask": 3,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 429,
+    "share": {
+      "player": 29240
+    },
+    "best_ask": 3,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1572,
+    "share": {
+      "player": 29254
+    },
+    "best_ask": 2,
+    "home_colour": "19244F",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 421,
+    "share": {
+      "player": 29278
+    },
+    "best_ask": 3,
+    "home_colour": "1BAC03",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 470,
+    "share": {
+      "player": 29406
+    },
+    "best_ask": 2,
+    "home_colour": "19244F",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1560,
+    "share": {
+      "player": 29433
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 803,
+    "share": {
+      "player": 29438
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 2031,
+    "share": {
+      "player": 29441
+    },
+    "best_ask": 3,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 27,
+    "share": {
+      "player": 29443
+    },
+    "best_ask": 2,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 31,
+    "share": {
+      "player": 29444
+    },
+    "best_ask": 3,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 904,
+    "share": {
+      "player": 29453
+    },
+    "best_ask": 2,
+    "home_colour": "000000",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 36,
+    "share": {
+      "player": 29468
+    },
+    "best_ask": 2,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 20,
+    "share": {
+      "player": 29470
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 432,
+    "share": {
+      "player": 29473
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 83,
+    "share": {
+      "player": 29480
+    },
+    "best_ask": 3,
+    "home_colour": "FEEC25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 88,
+    "share": {
+      "player": 29507
+    },
+    "best_ask": 3,
+    "home_colour": "cba810",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 15,
+    "share": {
+      "player": 29523
+    },
+    "best_ask": 3,
+    "home_colour": "652339",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 205,
+    "share": {
+      "player": 29535
+    },
+    "best_ask": 2,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1790,
+    "share": {
+      "player": 29540
+    },
+    "best_ask": 2,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 112,
+    "share": {
+      "player": 29549
+    },
+    "best_ask": 3,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 372,
+    "share": {
+      "player": 29554
+    },
+    "best_ask": 3,
+    "home_colour": "feec25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 348,
+    "share": {
+      "player": 29555
+    },
+    "best_ask": 3,
+    "home_colour": "f08608",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 259,
+    "share": {
+      "player": 29556
+    },
+    "best_ask": 3,
+    "home_colour": "feec25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 258,
+    "share": {
+      "player": 29559
+    },
+    "best_ask": 3,
+    "home_colour": "0a4201",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1673,
+    "share": {
+      "player": 29560
+    },
+    "best_ask": 2,
+    "home_colour": "0a4201",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 381,
+    "share": {
+      "player": 29620
+    },
+    "best_ask": 3,
+    "home_colour": "ffffff",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 349,
+    "share": {
+      "player": 29662
+    },
+    "best_ask": 3,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 605,
+    "share": {
+      "player": 29709
+    },
+    "best_ask": 2,
+    "home_colour": "FEEC25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 77,
+    "share": {
+      "player": 29712
+    },
+    "best_ask": 3,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 350,
+    "share": {
+      "player": 29713
+    },
+    "best_ask": 3,
+    "home_colour": "19244f",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": 10,
+    "last_price": 24,
+    "club_id": 163,
+    "share": {
+      "player": 29738
+    },
+    "best_ask": 24,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 282,
+    "share": {
+      "player": 29785
+    },
+    "best_ask": 3,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 730,
+    "share": {
+      "player": 29910
+    },
+    "best_ask": 2,
+    "home_colour": "652339",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 173,
+    "share": {
+      "player": 29987
+    },
+    "best_ask": 2,
+    "home_colour": "9505f0",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 143,
+    "share": {
+      "player": 30008
+    },
+    "best_ask": 2,
+    "home_colour": "FEEC25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 142,
+    "share": {
+      "player": 30012
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 153,
+    "share": {
+      "player": 30049
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 363,
+    "share": {
+      "player": 30064
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 294,
+    "share": {
+      "player": 30068
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": 5,
+    "club_id": 109,
+    "share": {
+      "player": 30095
+    },
+    "best_ask": 10,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 108,
+    "share": {
+      "player": 30105
+    },
+    "best_ask": 2,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 788,
+    "share": {
+      "player": 30130
+    },
+    "best_ask": 2,
+    "home_colour": "ffffff",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 267,
+    "share": {
+      "player": 30181
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1465,
+    "share": {
+      "player": 30254
+    },
+    "best_ask": 3,
+    "home_colour": "feec25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 112,
+    "share": {
+      "player": 30286
+    },
+    "best_ask": 2,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 133,
+    "share": {
+      "player": 30310
+    },
+    "best_ask": 2,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 281,
+    "share": {
+      "player": 30362
+    },
+    "best_ask": 2,
+    "home_colour": "63D0FD",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 600,
+    "share": {
+      "player": 30395
+    },
+    "best_ask": 3,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 292,
+    "share": {
+      "player": 30437
+    },
+    "best_ask": 3,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1226,
+    "share": {
+      "player": 30448
+    },
+    "best_ask": 2,
+    "home_colour": "F08608",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 291,
+    "share": {
+      "player": 30454
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1458,
+    "share": {
+      "player": 30457
+    },
+    "best_ask": 2,
+    "home_colour": "000000",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1421,
+    "share": {
+      "player": 30503
+    },
+    "best_ask": 3,
+    "home_colour": "1BAC03",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 444,
+    "share": {
+      "player": 30512
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 149,
+    "share": {
+      "player": 30519
+    },
+    "best_ask": 3,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 267,
+    "share": {
+      "player": 30525
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1336,
+    "share": {
+      "player": 30539
+    },
+    "best_ask": 3,
+    "home_colour": "1BAC03",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 4243,
+    "share": {
+      "player": 30556
+    },
+    "best_ask": 3,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 281,
+    "share": {
+      "player": 30581
+    },
+    "best_ask": 3,
+    "home_colour": "63D0FD",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 363,
+    "share": {
+      "player": 30583
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 298,
+    "share": {
+      "player": 30611
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 104,
+    "share": {
+      "player": 30627
+    },
+    "best_ask": 2,
+    "home_colour": "FEEC25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 372,
+    "share": {
+      "player": 30639
+    },
+    "best_ask": 3,
+    "home_colour": "feec25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 108,
+    "share": {
+      "player": 30643
+    },
+    "best_ask": 3,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 131,
+    "share": {
+      "player": 30682
+    },
+    "best_ask": 3,
+    "home_colour": "000000",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 265,
+    "share": {
+      "player": 30700
+    },
+    "best_ask": 3,
+    "home_colour": "63D0FD",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1153,
+    "share": {
+      "player": 30789
+    },
+    "best_ask": 3,
+    "home_colour": "1BAC03",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 84,
+    "share": {
+      "player": 30975
+    },
+    "best_ask": 3,
+    "home_colour": "19244f",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 2,
+    "share": {
+      "player": 30976
+    },
+    "best_ask": 2,
+    "home_colour": "652339",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 224,
+    "share": {
+      "player": 31016
+    },
+    "best_ask": 3,
+    "home_colour": "ffffff",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 263,
+    "share": {
+      "player": 31034
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 65,
+    "share": {
+      "player": 31064
+    },
+    "best_ask": 2,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 21,
+    "share": {
+      "player": 31086
+    },
+    "best_ask": 3,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 516,
+    "share": {
+      "player": 31089
+    },
+    "best_ask": 2,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 70,
+    "share": {
+      "player": 31097
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 115,
+    "share": {
+      "player": 31121
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1156,
+    "share": {
+      "player": 31129
+    },
+    "best_ask": 2,
+    "home_colour": "ffffff",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1153,
+    "share": {
+      "player": 31140
+    },
+    "best_ask": 2,
+    "home_colour": "1BAC03",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 142,
+    "share": {
+      "player": 31143
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 470,
+    "share": {
+      "player": 31145
+    },
+    "best_ask": 2,
+    "home_colour": "19244F",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1066,
+    "share": {
+      "player": 31165
+    },
+    "best_ask": 3,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 5,
+    "share": {
+      "player": 31169
+    },
+    "best_ask": 2,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 300,
+    "share": {
+      "player": 31201
+    },
+    "best_ask": 2,
+    "home_colour": "0a4201",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 179,
+    "share": {
+      "player": 31253
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 285,
+    "share": {
+      "player": 31286
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 288,
+    "share": {
+      "player": 31356
+    },
+    "best_ask": 3,
+    "home_colour": "000000",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 192,
+    "share": {
+      "player": 31438
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 350,
+    "share": {
+      "player": 31506
+    },
+    "best_ask": 3,
+    "home_colour": "19244f",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 174,
+    "share": {
+      "player": 31507
+    },
+    "best_ask": 3,
+    "home_colour": "FEEC25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 689,
+    "share": {
+      "player": 31508
+    },
+    "best_ask": 2,
+    "home_colour": "000000",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 172,
+    "share": {
+      "player": 31510
+    },
+    "best_ask": 3,
+    "home_colour": "ffffff",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 472,
+    "share": {
+      "player": 31517
+    },
+    "best_ask": 2,
+    "home_colour": "ffffff",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 99,
+    "share": {
+      "player": 31561
+    },
+    "best_ask": 3,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 154,
+    "share": {
+      "player": 31563
+    },
+    "best_ask": 2,
+    "home_colour": "ffffff",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 325,
+    "share": {
+      "player": 31608
+    },
+    "best_ask": 2,
+    "home_colour": "63D0FD",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 373,
+    "share": {
+      "player": 31688
+    },
+    "best_ask": 3,
+    "home_colour": "ffffff",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 70,
+    "share": {
+      "player": 31703
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1467,
+    "share": {
+      "player": 31704
+    },
+    "best_ask": 2,
+    "home_colour": "63d0fd",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 29,
+    "share": {
+      "player": 31720
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 15,
+    "share": {
+      "player": 31723
+    },
+    "best_ask": 3,
+    "home_colour": "652339",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 554,
+    "share": {
+      "player": 31729
+    },
+    "best_ask": 2,
+    "home_colour": "FE8DF2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 520,
+    "share": {
+      "player": 31736
+    },
+    "best_ask": 3,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": 2,
+    "club_id": 45,
+    "share": {
+      "player": 31755
+    },
+    "best_ask": 2,
+    "home_colour": "F08608",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 310,
+    "share": {
+      "player": 31782
+    },
+    "best_ask": 3,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 18,
+    "share": {
+      "player": 31802
+    },
+    "best_ask": 2,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 71,
+    "share": {
+      "player": 31819
+    },
+    "best_ask": 2,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 2,
+    "share": {
+      "player": 31848
+    },
+    "best_ask": 2,
+    "home_colour": "652339",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 45,
+    "share": {
+      "player": 31854
+    },
+    "best_ask": 2,
+    "home_colour": "F08608",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 460,
+    "share": {
+      "player": 31859
+    },
+    "best_ask": 2,
+    "home_colour": "63D0FD",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 77,
+    "share": {
+      "player": 31865
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 118,
+    "share": {
+      "player": 31884
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 70,
+    "share": {
+      "player": 31885
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 464,
+    "share": {
+      "player": 31907
+    },
+    "best_ask": 2,
+    "home_colour": "F08608",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 123,
+    "share": {
+      "player": 31960
+    },
+    "best_ask": 3,
+    "home_colour": "652339",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 80,
+    "share": {
+      "player": 31997
+    },
+    "best_ask": 3,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1068,
+    "share": {
+      "player": 32119
+    },
+    "best_ask": 2,
+    "home_colour": "F08608",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 275,
+    "share": {
+      "player": 32150
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 174,
+    "share": {
+      "player": 32270
+    },
+    "best_ask": 3,
+    "home_colour": "FEEC25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 243,
+    "share": {
+      "player": 32271
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1416,
+    "share": {
+      "player": 32290
+    },
+    "best_ask": 2,
+    "home_colour": "1BAC03",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 4,
+    "share": {
+      "player": 32310
+    },
+    "best_ask": 3,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 286,
+    "share": {
+      "player": 32338
+    },
+    "best_ask": 3,
+    "home_colour": "ffffff",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 294,
+    "share": {
+      "player": 32347
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 271,
+    "share": {
+      "player": 32348
+    },
+    "best_ask": 2,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 600,
+    "share": {
+      "player": 32349
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 307,
+    "share": {
+      "player": 32359
+    },
+    "best_ask": 3,
+    "home_colour": "000000",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1180,
+    "share": {
+      "player": 32380
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 376,
+    "share": {
+      "player": 32407
+    },
+    "best_ask": 3,
+    "home_colour": "feec25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 446,
+    "share": {
+      "player": 32444
+    },
+    "best_ask": 2,
+    "home_colour": "9505f0",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": 3,
+    "club_id": 450,
+    "share": {
+      "player": 32459
+    },
+    "best_ask": 5,
+    "home_colour": "FEEC25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 271,
+    "share": {
+      "player": 32486
+    },
+    "best_ask": 2,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1237,
+    "share": {
+      "player": 32494
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 491,
+    "share": {
+      "player": 32497
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 602,
+    "share": {
+      "player": 32706
+    },
+    "best_ask": 3,
+    "home_colour": "63d0fd",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1763,
+    "share": {
+      "player": 32721
+    },
+    "best_ask": 3,
+    "home_colour": "1BAC03",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1763,
+    "share": {
+      "player": 32728
+    },
+    "best_ask": 3,
+    "home_colour": "1BAC03",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 258,
+    "share": {
+      "player": 32802
+    },
+    "best_ask": 3,
+    "home_colour": "0a4201",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 730,
+    "share": {
+      "player": 32823
+    },
+    "best_ask": 2,
+    "home_colour": "652339",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 328,
+    "share": {
+      "player": 32840
+    },
+    "best_ask": 3,
+    "home_colour": "F08608",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 38,
+    "share": {
+      "player": 32866
+    },
+    "best_ask": 2,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 314,
+    "share": {
+      "player": 32868
+    },
+    "best_ask": 2,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 64,
+    "share": {
+      "player": 32870
+    },
+    "best_ask": 2,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 148,
+    "share": {
+      "player": 32873
+    },
+    "best_ask": 3,
+    "home_colour": "ffffff",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1447,
+    "share": {
+      "player": 32874
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 364,
+    "share": {
+      "player": 32877
+    },
+    "best_ask": 2,
+    "home_colour": "2551B2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1519,
+    "share": {
+      "player": 32901
+    },
+    "best_ask": 5,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 803,
+    "share": {
+      "player": 32923
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": 4,
+    "last_price": 18,
+    "club_id": 163,
+    "share": {
+      "player": 32924
+    },
+    "best_ask": 24,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 27,
+    "share": {
+      "player": 32925
+    },
+    "best_ask": 3,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 330,
+    "share": {
+      "player": 32939
+    },
+    "best_ask": 3,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1226,
+    "share": {
+      "player": 32945
+    },
+    "best_ask": 2,
+    "home_colour": "F08608",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 350,
+    "share": {
+      "player": 32959
+    },
+    "best_ask": 3,
+    "home_colour": "19244f",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 270,
+    "share": {
+      "player": 33002
+    },
+    "best_ask": 3,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 382,
+    "share": {
+      "player": 33004
+    },
+    "best_ask": 3,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 27,
+    "share": {
+      "player": 33012
+    },
+    "best_ask": 3,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 192,
+    "share": {
+      "player": 33038
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 84,
+    "share": {
+      "player": 33043
+    },
+    "best_ask": 2,
+    "home_colour": "19244f",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 70,
+    "share": {
+      "player": 33061
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 605,
+    "share": {
+      "player": 33080
+    },
+    "best_ask": 2,
+    "home_colour": "FEEC25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 29,
+    "share": {
+      "player": 33118
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 120,
+    "share": {
+      "player": 33139
+    },
+    "best_ask": 2,
+    "home_colour": "FFFFFF",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 15,
+    "share": {
+      "player": 33150
+    },
+    "best_ask": 3,
+    "home_colour": "652339",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 112,
+    "share": {
+      "player": 33185
+    },
+    "best_ask": 2,
+    "home_colour": "e90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 730,
+    "share": {
+      "player": 33187
+    },
+    "best_ask": 2,
+    "home_colour": "652339",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1226,
+    "share": {
+      "player": 33212
+    },
+    "best_ask": 3,
+    "home_colour": "F08608",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": 3,
+    "club_id": 52,
+    "share": {
+      "player": 33248
+    },
+    "best_ask": 3,
+    "home_colour": "ffffff",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 1334,
+    "share": {
+      "player": 33249
+    },
+    "best_ask": 3,
+    "home_colour": "19244f",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 157,
+    "share": {
+      "player": 33250
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 153,
+    "share": {
+      "player": 33254
+    },
+    "best_ask": 2,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 142,
+    "share": {
+      "player": 33256
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 143,
+    "share": {
+      "player": 33257
+    },
+    "best_ask": 3,
+    "home_colour": "FEEC25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 18,
+    "share": {
+      "player": 33260
+    },
+    "best_ask": 3,
+    "home_colour": "2551b2",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 335,
+    "share": {
+      "player": 33273
+    },
+    "best_ask": 2,
+    "home_colour": "feec25",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 148,
+    "share": {
+      "player": 33276
+    },
+    "best_ask": 3,
+    "home_colour": "ffffff",
+    "num_shares": 10000
+  },
+  {
+    "best_bid": null,
+    "last_price": null,
+    "club_id": 157,
+    "share": {
+      "player": 33297
+    },
+    "best_ask": 3,
+    "home_colour": "E90202",
+    "num_shares": 10000
+  }
+]

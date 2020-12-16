@@ -1,0 +1,43 @@
+{
+  "id": "1",
+  "jsonrpc": "2.0",
+  "result": {
+    "blockhash": "e8a6f25826cec220acfbd50d8c0749b77c1a93fba8dd65297c0e7abefbc6271a",
+    "chain": "main",
+    "data": [
+      {
+        "club": 21,
+        "date": 1607982010,
+        "name": "emekkad",
+        "type": "new manager"
+      },
+      {
+        "club": 148,
+        "date": 1607969209,
+        "name": "Josi",
+        "type": "new manager"
+      },
+      {
+        "club": 379,
+        "date": 1607957295,
+        "name": "EvertAtl4x",
+        "type": "manager resigned"
+      },
+      {
+        "club": 365,
+        "date": 1607951418,
+        "name": "Zaki",
+        "type": "new manager"
+      },
+      {
+        "club": 1790,
+        "date": 1607948212,
+        "name": "Spanner423",
+        "type": "new manager"
+      }
+    ],
+    "gameid": "smc",
+    "height": 2425571,
+    "state": "up-to-date"
+  }
+}
