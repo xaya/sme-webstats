@@ -1,3 +1,12 @@
+<?php
+// The set_pack.php, club_names.php, and player_names.php files
+// are required to get the names, images, etc., from a data pack.
+// The set_pack.php file has info on how to create your own. 
+require_once( "set_pack.php" );
+require_once( "club_names.php" );
+require_once( "player_names.php" );
+
+?>
 <!-- Ticker -->
 <div class="cont-ticker">
   <div class="row">
@@ -12,7 +21,7 @@
             <li><span>Share Trades</span></li>
             <li><span>Completed Transfers</span></li>
             <li><span>Rich & Poor</span></li>
-            <li><span>Manager & Agents</span></li>
+            <li><span>Managers & Agents</span></li>
           </ul>
         </div>
 
@@ -35,14 +44,14 @@
                 <span class="cont-ticker-data">
                   <?php foreach ( $results_ticker_clubshares as $key => $val ): 
                     ?>
-                  <span class="ticker-data-single">Club <?php echo $val['share']['club'];?> -
+                  <span class="ticker-data-single">Club <?php echo GetClubName($val['share']['club'], $clubs) . ' (' . $val['share']['club'] . ')';?> -
                     <span
                       class="ticker-data-arrow ticker-data-<?php echo ($val['type']=='buy')?'green':'red';?>">&#8375;<?php echo $val['price'];?></span>
                   </span>
                   <?php endforeach; ?>
                   <?php foreach ( $results_ticker_playershares as $key => $val ): 
                     ?>
-                  <span class="ticker-data-single">Player <?php echo $val['share']['player'];?> -
+                  <span class="ticker-data-single">Player <?php echo GetPlayerName($val['share']['player'], $players) . ' (' . $val['share']['player'] . ')';?> -
                     <span
                       class="ticker-data-arrow ticker-data-<?php echo ($val['type']=='buy')?'green':'red';?>">&#8375;<?php echo $val['price'];?></span>
                   </span>
@@ -60,8 +69,8 @@
                 <span class="cont-ticker-data">
                   <?php foreach ( $results_ticker_completedtransfers as $key => $val ): 
                     ?>
-                  <span class="ticker-data-single">Player <?php echo $val['player'];?> > Club
-                    <?php echo $val['newclub'];?>
+                  <span class="ticker-data-single">Player <?php echo GetPlayerName($val['player'], $players) . ' (' . $val['player'] . ')';?> > Club
+                    <?php echo GetClubName($val['newclub'], $clubs) . ' (' . $val['newclub'] . ')';?>
                     for
                     <span class="ticker-data-green">&#8375;<?php echo number_format($val['amount'],0,'.',',');?></span>
                   </span>
@@ -80,13 +89,13 @@
                 <span class="cont-ticker-data">
                   <?php foreach ( $results_ticker_poor as $key => $val ): 
                     ?>
-                  <span class="ticker-data-single">Club <?php echo $val['club'];?> <span
+                  <span class="ticker-data-single">Club <?php echo GetClubName($val['club'], $clubs) . ' (' . $val['club'] . ')';?> <span
                       class="ticker-data-arrow ticker-data-red">-&#8375;<?php echo number_format(abs($val['balance']),0,'.',',');?></span>
                   </span>
                   <?php endforeach; ?>
                   <?php foreach ( $results_ticker_rich as $key => $val ): 
                     ?>
-                  <span class="ticker-data-single">Club <?php echo $val['club'];?> <span
+                  <span class="ticker-data-single">Club <?php echo GetClubName($val['club'], $clubs) . ' (' . $val['club'] . ')';?> <span
                       class="ticker-data-arrow ticker-data-green">&#8375;<?php echo number_format(abs($val['balance']),0,'.',',');?></span>
                   </span>
                   <?php endforeach; ?>
@@ -100,7 +109,7 @@
                 $results_ticker_manageragents = $data_ticker_manageragents['result']['data'];
         ?>
               <span class="ticker-cat" id="ticker-cat-3" data-catheading="Manager Agents">
-                <span class="ticker-cat-heading">Manager & Agents : </span>
+                <span class="ticker-cat-heading">Managers & Agents : </span>
                 <span class="cont-ticker-data">
                   <?php foreach ( $results_ticker_manageragents as $key => $val ): 
                     ?>
@@ -108,11 +117,11 @@
                     <?php
                     if($val['type']=='manager resigned')
                     {
-                      echo '<span class="ticker-data">'.$val['name'].' Resigns</span>' . ((array_key_exists('club',$val))?' Club ' . $val['club']:' Player ' . $val['player']);
+                      echo '<span class="ticker-data">'.$val['name'].' Resigns</span>' . ((array_key_exists('club',$val))?' Club ' . GetClubName($val['club'], $clubs) . ' (' . $val['club'] . ')':' Player ' . GetPlayerName($val['player'], $players) . ' (' . $val['player'] . ')');
                     }
                     else
                     {
-                      echo '<span class="ticker-data-yellow">'.$val['name'].'</span>' . ((array_key_exists('club',$val))?' Club ' . $val['club']:' Player ' . $val['player']);
+                      echo '<span class="ticker-data-yellow">'.$val['name'].'</span>' . ((array_key_exists('club',$val))?' Club ' . GetClubName($val['club'], $clubs) . ' (' . $val['club'] . ')':' Player ' . GetPlayerName($val['player'], $players) . ' (' . $val['player'] . ')');
                     }
                     ?>
                   </span>

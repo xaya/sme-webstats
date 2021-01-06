@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-
+<?php
+?>
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -140,7 +141,7 @@
                 <tr>
                   <td><?php echo $i;?></td>
                   <td><i class="gg-shield" style="background-color:#<?php echo $val['home_colour'];?>"></i><span
-                      class="clubid-txt"><?php echo $val['share']['club'];?></span>
+                      class="clubid-txt"><?php echo GetClubName($val['share']['club'], $clubs) . ' (' . $val['share']['club'] . ')';?></span>
                   </td>
                   <td class="colspanright"><?php echo  (!empty($val['best_ask']))?'&#8375; '.$val['best_ask']:'';?></td>
                   <td class="colspanright"><?php echo  (!empty($val['best_bid']))?'&#8375; '.$val['best_bid']:'';?></td>
@@ -161,6 +162,7 @@
       </div>
     </div>
     <!-- Content -->
+<?php include 'footer.php' ?>
   </div>
 
   <script type="text/javascript" src="libraries/acmeticker.js"></script>

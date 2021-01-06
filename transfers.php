@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-
+<?php
+?>
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -161,8 +162,8 @@
                   <td>
                     <?php echo (array_key_exists($val['position'],$pos_array))?$pos_array[$val['position']]:$val['position'];?>
                   </td>
-                  <td><?php echo $val['player_id'];?></td>
-                  <td class="text-left"><?php echo $val['club_id'];?></td>
+                  <td><?php echo GetPlayerName($val['player_id'], $players) . ' (' . $val['player_id'] . ')';?></td>
+                  <td class="text-left"><?php echo GetClubName($val['club_id'], $clubs) . ' (' . $val['club_id'] . ')';?></td>
                   <td class="colspanright"><?php echo $val['rating'];?></td>
                   <td class="colspanright" data-order="<?php echo abs($remainingSeconds);?>">
                     <?php echo secondsToTime($remainingSeconds);?></td>
@@ -180,6 +181,7 @@
       </div>
     </div>
     <!-- Content -->
+<?php include 'footer.php' ?>
   </div>
 
   <script type="text/javascript" src="libraries/acmeticker.js"></script>

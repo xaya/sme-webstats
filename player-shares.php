@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-
+<?php
+?>
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -137,7 +138,7 @@ array_multisort($keys, SORT_DESC, $results);
                 <tr>
                   <td><?php echo $i;?></td>
                   <td><i class="gg-shield" style="background-color:#<?php echo $val['home_colour'];?>"></i><span
-                      class="clubid-txt"><?php echo $val['share']['player'];?></span></td>
+                      class="clubid-txt"><?php echo GetPlayerName($val['share']['player'], $players) . ' (' . $val['share']['player'] . ')';?></span></td>
                   <td class="colspanright"><?php echo '&#8375; '.$val['best_ask'];?></td>
                   <td class="colspanright"><?php echo '&#8375; '.$val['best_bid'];?></td>
                   <td class="colspanright"><?php echo '&#8375; '.$val['last_price'];?></td>
@@ -164,6 +165,7 @@ array_multisort($keys, SORT_DESC, $results);
       </div>
     </div>
     <!-- Content -->
+<?php include 'footer.php' ?>
   </div>
 
   <script type="text/javascript" src="libraries/acmeticker.js"></script>
