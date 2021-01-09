@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-
+<?php
+?>
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -150,7 +151,7 @@
                   <tr>
                     <td><?php echo $val['new_position'];?></td>
                     <td><i class="gg-shield" style="background-color:#<?php echo $val['home_colour'];?>"></i><span
-                        class="clubid-txt"><?php echo $val['club_id'];?></span></td>
+                        class="clubid-txt"><?php echo GetClubName($val['club_id'], $clubs) . ' (' . $val['club_id'] . ')';?></span></td>
                     <td><?php echo $val['manager_name'];?></td>
                     <td class="colspanright"><?php echo $val['played'];?></td>
                     <td class="colspanright"><?php echo $val['won'];?></td>
@@ -183,7 +184,9 @@
       </div>
     </div>
     <!-- Content -->
-  </div>
+<?php include 'footer.php' ?>
+</div>
+
 
   <script type="text/javascript" src="libraries/acmeticker.js"></script>
   <script type="text/javascript" src="libraries/main.js"></script>

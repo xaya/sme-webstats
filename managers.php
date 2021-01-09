@@ -177,6 +177,7 @@ $display = 1000; // Change this variable to display number of records
       </div>
     </div>
     <!-- Content -->
+<?php include 'footer.php' ?>
   </div>
 
   <script type="text/javascript" src="libraries/acmeticker.js"></script>
